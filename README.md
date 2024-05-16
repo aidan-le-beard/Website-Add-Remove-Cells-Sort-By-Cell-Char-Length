@@ -4,7 +4,7 @@
 
 ## You do NOT have permission to use this code for any commercial purposes without speaking to me to work out a deal.
 
-Webpage displays a table where cells can be added/removed, input character length is displayed, and cells are sortable by length. The table must always have at least one cell, and removed cells' prior input is kept, for if they are re-added. Try it here: https://studentweb.kennesaw.edu/~alebeard/Mod_2_Assignment_2.html?
+Webpage displays a table where cells can be added/removed, input character length is displayed, and cells are sortable by length. The table must always have at least one cell, and removed cells' prior input is kept, for if they are re-added. Try it here: https://aidan-le-beard.github.io/Mod_2_Assignment_2.html?
 
 ## To execute on Windows:
 
